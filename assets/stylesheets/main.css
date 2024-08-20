@@ -82,7 +82,7 @@
   }
 
   .equalBlock {
-    background: url(/assets/stylesheets/images/icon-view.svg);
+    background: url(icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
   }
