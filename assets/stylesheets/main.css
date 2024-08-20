@@ -20,6 +20,7 @@
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     background: hsl(217, 54%, 11%);
+    padding-bottom: 0.8rem;
   }
   /*
     5. Improve media defaults
