@@ -73,12 +73,23 @@
   
   /*====================================
 
-         The Equillibrium Image
+         The Equillibrium Images
 
   ====================================*/
 
   .equilibrium {
     border-radius: 10px;
+  }
+
+  .equalBlock {
+    background: url(/assets/stylesheets/images/icon-view.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .equilibrium:hover {
+    opacity: 0.5;
+    cursor: pointer;
   }
 
   /*====================================
@@ -175,6 +186,11 @@
 .creationSentence {
     padding-top: 0.3em;
     font-size: 1rem;
+}
+
+.theName:hover {
+    cursor: pointer;
+    color:hsl(178, 100%, 50%);
 }
 
 /*====================================
