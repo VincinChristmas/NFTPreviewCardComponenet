@@ -122,6 +122,11 @@
   font-weight: 400;
 }
 
+/*====================================
+
+       The Container Elements
+
+  ====================================*/
 
 .etherumParagraph {
     float: left;
@@ -144,10 +149,11 @@
     padding-top: 0.243em;
 }
 
-.mainSection {
-  padding-bottom: 0.8em;
-  border-bottom: 1px solid hsl(215, 32%, 27%);
-}
+/*====================================
+
+       The Bottom Profile
+
+  ====================================*/
 
 .bottomProfile {
     margin-top: 1em;
@@ -170,6 +176,12 @@
     padding-top: 0.3em;
     font-size: 1rem;
 }
+
+/*====================================
+
+             The Attribution
+
+  ====================================*/
 
 .attribution {
     color: white;
